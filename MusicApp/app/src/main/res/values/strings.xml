@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MusicApp</string>
+    <string name="category_classical">Classic</string>
+    <string name="category_country">Country</string>
+    <string name="category_hiphop">HipHop</string>
+    <string name="category_jazz">Jazz</string>
+    <string name="category_rock">Rock</string>
+</resources>
